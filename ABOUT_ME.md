@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JakobLjosnes
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning front- and backend
+- 📫 My email is jakobljosnes@gmail.com
